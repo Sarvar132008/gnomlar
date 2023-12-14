@@ -1,0 +1,86 @@
+.navbar{
+    
+    background: rgb(166,154,109);
+background: linear-gradient(90deg, rgba(166,154,109,1) 0%, rgba(155,174,82,1) 9%, rgba(184,166,50,1) 20%, rgba(189,161,49,1) 27%, rgba(199,194,47,1) 40%, rgba(189,197,47,1) 50%, rgba(181,199,47,1) 60%, rgba(211,206,62,1) 71%, rgba(209,221,74,1) 80%, rgba(160,193,45,1) 90%, rgba(177,124,15,1) 100%);
+}
+.wrap{
+    display: flex;
+}
+h1{
+   margin: 20px 20px;
+   font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.slom{
+    padding: 35px 0px ;
+    margin-left: -50px;
+    color: #333;
+}
+input{
+     margin: 27px 20px ;
+     border: 3px solid rgb(255, 255, 0);
+     border-radius: 10px;
+       
+}
+.iconlar{
+     position: relative;
+     left: -3px;
+     top: 10px;
+     cursor: pointer;
+     
+}
+.dala{
+    padding: 20px 25px;
+    font-size: 23px;
+}
+.solo{
+    text-align: center;
+    position: relative;
+    bottom: 800px;
+    font-size: 30px;
+    
+}
+.frdvb{
+    color: rgb(0, 157, 255);
+}
+.fraa{
+    padding: 0px 30px;
+    
+}
+.box{
+   text-align: center;
+   position: relative;
+   top: -750px;
+
+}
+.yurak{
+    padding: 30px 40px;
+    font-size: 50px;
+    width: 130px;
+    height: 70px;
+    background-color: white;
+    margin: 7px;
+    border-radius: 20px;
+    padding-top: -30px;
+}
+.yurakbanda{
+    padding: 30px 40px;
+    font-size: 50px;
+    width: 130px;
+    height: 70px;
+    background-color: red;
+    color: white;
+    margin: 7px;
+    border-radius: 20px;
+    padding-top: -30px;
+}
+.yuraksamda{
+    padding: 30px 40px;
+    font-size: 50px;
+    width: 130px;
+    height: 70px;
+    background-color: rgb(0, 157, 255);
+    color: white;
+    margin: 7px;
+    border-radius: 20px;
+    padding-top: -30px;
+}
